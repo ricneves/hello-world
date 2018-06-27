@@ -66,3 +66,4 @@ c:\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
 c:\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 c:\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+c:\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
